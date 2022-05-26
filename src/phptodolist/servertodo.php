@@ -1,4 +1,5 @@
 <?php
+// Server Page of TODO
 session_start();
 
 if(!isset($_SESSION['todo'])){
